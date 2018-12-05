@@ -1,3 +1,4 @@
 This is a simple list of all the participants in the working group! Please add yourself
 
 * Andrew MacDonald is a Postdoctoral researcher at the Université de Montreal. Formerly a tropical field ecologist, now reinventing himself as a "computational ecologist". Interests include entomology, bayesian statistics and human languages.
+* Nicholas Marino is a Postdoctoral researcher at Universidade Federal do Rio de Janeiro. I have a broad interest in several fields from community and ecosystem ecology, and how could we use food web theory to link these two scales; I also enjoy statistics, and have great fun with it.
