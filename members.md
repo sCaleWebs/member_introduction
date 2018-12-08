@@ -7,3 +7,5 @@ This is a simple list of all the participants in the working group! Please add y
 * Colette Ward is a postdoctoral researcher at Fisheries and Oceans Canada. She is a community ecologist with a soft spot for aquatic food webs. She enjoys working and playing in her study systems and learning how to better wrangle large datasets.
 * Melissa Guzman is a PhD student with Diane Srivastava. I am interested in trophic (and in the future more broadly network) metacommunities.  I also enjoy statistics and computational approaches that help us solve problems.
 * Jana Petermann is a community ecologists at Salzburg University. She works in small aquatic systems (and large ones and terrestrial ones) and likes insects, climbing and coffee.
+* Vinicius Farjalla is trying hard to finish all the last-minute task to picj up the airplane on time!
+
